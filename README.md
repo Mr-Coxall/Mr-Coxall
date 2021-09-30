@@ -47,21 +47,11 @@ My name is Mr. Coxall and I'm a Computer Science teacher at St. Mother Teresa HS
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Mr-Coxall/Mr-Coxall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Coxall&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Coxall&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Mr-Coxall/Mr-Coxall">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Coxall&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mr Coxall's GitHub Stats" />
 </a>
-
-<a href="https://github.com/Mr-Coxall/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Coxall&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Mr-Coxall/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Coxall&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
-
 
 <!--
 **Mr-Coxall/Mr-Coxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
