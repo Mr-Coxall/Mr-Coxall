@@ -46,8 +46,8 @@ My name is Mr. Coxall and I'm a Computer Science teacher at St. Mother Teresa HS
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mr Coxall's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-coxall)](https://github.com/anuraghazra/github-readme-stats)
+[![Mr Coxall's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coxall)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/Mr-Coxall/Mr-Coxall">
