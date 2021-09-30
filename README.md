@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Mr. Coxall and I'm a Computer Science teacher at <a href="https://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
+My name is Mr. Coxall and I'm a Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
 
 ## ✍ Programming Languages
 
