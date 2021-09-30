@@ -21,6 +21,7 @@ My name is Mr. Coxall and I'm a Computer Science teacher at <a href="http://mths
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
   ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
