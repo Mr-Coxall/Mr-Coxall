@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Mr. Coxall and I'm a Computer Science teacher at St. Mother Teresa HS, Ottawa, Canada.
+
+## 🔧 Programming Languages
+
+<p>
+  <a href="https://github.com/search?q=user%Mr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  
+</p>
 
 <!--
 **Mr-Coxall/Mr-Coxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
