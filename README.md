@@ -42,33 +42,3 @@ My name is Mr. Coxall and I'm a Computer Science teacher at St. Mother Teresa HS
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-
-## &#x1f4c8; GitHub Stats
-
-[![Mr Coxall's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-coxall)](https://github.com/anuraghazra/github-readme-stats)
-[![Mr Coxall's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-coxall)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://github.com/Mr-Coxall/Mr-Coxall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Coxall&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-
-<a href="https://github.com/Mr-Coxall/Mr-Coxall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Coxall&show_icons=true&line_height=27&count_public=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mr Coxall's GitHub Stats" />
-</a>
-
-<!--
-**Mr-Coxall/Mr-Coxall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
