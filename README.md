@@ -20,11 +20,10 @@ My name is Mr. Coxall and I'm a Computer Science teacher at St. Mother Teresa HS
 ## 💻 Operatiing Systems
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+  ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 
 
 ## 🔧 Tools
