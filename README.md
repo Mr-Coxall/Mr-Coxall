@@ -15,6 +15,8 @@
 </p>
 
 <h2>💻 Operatiing Systems</h2>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)
