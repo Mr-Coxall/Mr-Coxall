@@ -1,4 +1,4 @@
-# Hi there 👋
+<h3>Hi there 👋</h3>
 
 My name is Mr. Coxall and I'm a Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.
 
