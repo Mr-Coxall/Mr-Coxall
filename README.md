@@ -14,7 +14,7 @@ My name is Mr. Coxall and I'm a Computer Science teacher at <a href="http://mths
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A.svg?logo=swift&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-F54A2A.svg?logo=swift&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 ## 💻 Operatiing Systems
