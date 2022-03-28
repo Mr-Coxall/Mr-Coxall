@@ -1,5 +1,6 @@
 <h1>Hi there 👋</h1>
 <p>My name is Mr. Coxall and I'm the Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+
 <h2>✍ Programming Languages</h2>
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -23,14 +24,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS">
 </p>
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white)
-  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-  ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
-
 
 ## 🔧 Tools
 
