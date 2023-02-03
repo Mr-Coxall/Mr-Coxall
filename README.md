@@ -16,7 +16,7 @@
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h2>💻 Operatiing Systems</h2>
+<h2>💻 Operating Systems</h2>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
