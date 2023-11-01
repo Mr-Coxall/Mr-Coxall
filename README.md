@@ -45,7 +45,7 @@
 
 ## YouTube
 
-<a href="http://www.mths.ca" target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qMiRUqLi8rSH-bndwuXOMFv" target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## ✍💻 Social Coding
 
