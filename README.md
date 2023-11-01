@@ -45,7 +45,7 @@
 
 ## YouTube
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=2rKh2TnAC3c](https://www.youtube.com/watch?v=2rKh2TnAC3c&list=PLJafb_gms6qMiRUqLi8rSH-bndwuXOMFv&index=1)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
