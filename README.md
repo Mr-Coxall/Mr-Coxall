@@ -18,7 +18,7 @@
 
 <h2>💻 Operating Systems</h2>
 <p>
-  <a href="#">
+  <a href="https://linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   </a>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
