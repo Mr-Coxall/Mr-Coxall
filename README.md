@@ -43,7 +43,7 @@
   
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-## 📺 YouTube
+## 📺📝 YouTube Playlists
 
 <a href="https://www.youtube.com/playlist?list=PLJafb_gms6qMiRUqLi8rSH-bndwuXOMFv" target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="https://www.youtube.com/playlist?list=PLJafb_gms6qPYsHm0yW1t1ZxXzSzjX4y_" target="_blank"><img src="http://img.youtube.com/vi/JEfv01Qk7Wo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
