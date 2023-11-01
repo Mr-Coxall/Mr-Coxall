@@ -44,7 +44,7 @@
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ## 📺📝 My Online Textbook - Computer Based Problem Solving
-<a href="https://computer-based-problem-solving.readthedocs.io/en/latest/" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" height="180" border="10" /></a>
+<a href="https://computer-based-problem-solving.readthedocs.io/en/latest/" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
 
 ## 📺📝 YouTube Playlists
 
