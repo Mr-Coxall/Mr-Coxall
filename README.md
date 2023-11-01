@@ -51,10 +51,10 @@
 
 ## 📺📝 My YouTube Playlists about Coding
 
-<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qMiRUqLi8rSH-bndwuXOMFv" target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qPYsHm0yW1t1ZxXzSzjX4y_" target="_blank"><img src="http://img.youtube.com/vi/JEfv01Qk7Wo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qNednIIrd5RB0F5qbYamz0t" target="_blank"><img src="http://img.youtube.com/vi/829yfaX63vk/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qPGqxZFpa1w6WwubGMKDViC" target="_blank"><img src="http://img.youtube.com/vi/G9GUvLsbW54/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qMiRUqLi8rSH-bndwuXOMFv" target="_blank"><img src="http://img.youtube.com/vi/2rKh2TnAC3c/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
+<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qPYsHm0yW1t1ZxXzSzjX4y_" target="_blank"><img src="http://img.youtube.com/vi/JEfv01Qk7Wo/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
+<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qNednIIrd5RB0F5qbYamz0t" target="_blank"><img src="http://img.youtube.com/vi/829yfaX63vk/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
+<a href="https://www.youtube.com/playlist?list=PLJafb_gms6qPGqxZFpa1w6WwubGMKDViC" target="_blank"><img src="http://img.youtube.com/vi/G9GUvLsbW54/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
 
 ## 👥💻 Social Coding
 
