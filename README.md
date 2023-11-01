@@ -46,7 +46,7 @@
 ## 📺📝 My Online Textbook - Computer Based Problem Solving
 <a href="https://computer-based-problem-solving.readthedocs.io/en/latest/" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
 
-## 🪜🐢 My MakeCode Arcade Extension - Turtle Logo
+## 🎮🐢 My MakeCode Arcade Extension - Turtle Logo
 <a href="https://arcade.makecode.com/pkg/mr-coxall/turtle-logo" target="_blank"><img src="https://raw.githubusercontent.com/mr-coxall/turtle-logo/master/icon.png" alt="My MakeCode Arcade Extension - Turtle Logo" width="240" border="10" /></a>
 
 ## 📺📝 My YouTube Playlists about Coding
