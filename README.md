@@ -60,6 +60,7 @@
 
 <a href="https://www.apple.com/ca/education/k12/apple-distinguished-educator/" target="_blank"><img src="./images/APPLE_DISTINGUISHED_EDUCATOR.jpg" alt="Apple Distinguished Educator" height="100" /></a>
 <a href="https://aws.amazon.com/training/awsacademy/" target="_blank"><img src="./images/AWS_Academy_Educator.png" alt="AWS Academy Educator" height="100" /></a>
+<a href="https://education.github.com/teachers/" target="_blank"><img src="./images/GitHub_Classroom.png" alt="GitHub Classroom" height="100" /></a>
 <a href="https://www.netacad.com/educators/" target="_blank"><img src="./images/Cisco_Network_Academy.png" alt="Cisco Network Academy Educator" height="100" /></a>
 
 ## 👥💻 Social Coding
