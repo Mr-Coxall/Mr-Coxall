@@ -15,7 +15,7 @@
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A.svg?logo=swift&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
 </p>
 
 <h2>💻 Operating Systems</h2>
