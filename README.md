@@ -2,11 +2,11 @@
 <p>My name is Mr. Coxall and I'm the Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
 <h2>🕸️ Course Websites</h2>
-<p>
+<h4>
   <a href="https://sites.google.com/ocsb.ca/teh-icd2or">ICD2O</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics3ur">ICS3U</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics4ur">ICS4U</a>
-</p>
+</h4>
 <p>
   <a href="https://sites.google.com/ocsb.ca/teh-tej2or">TEJ2O</a>
   <a href="https://sites.google.com/ocsb.ca/teh-tej3m1">TEJ3M</a>
