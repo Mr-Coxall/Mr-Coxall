@@ -3,9 +3,9 @@
 
 <h2>🕸️ Course Websites</h2>
 <p>
-  <a href="https://icd2o.mths.ca">ICD2O</a>
-  <a href="https://ics3u.mths.ca">ICS3U</a>
-  <a href="https://ics4u.mths.ca">ICS4U</a>
+  <a href="https://sites.google.com/ocsb.ca/teh-icd2or">ICD2O</a>
+  <a href="https://sites.google.com/ocsb.ca/teh-ics3ur">ICS3U</a>
+  <a href="https://sites.google.com/ocsb.ca/teh-ics4ur">ICS4U</a>
 </p>
 <p>
   <a href="https://tej2o.mths.ca">TEJ2O</a>
