@@ -1,6 +1,12 @@
 <h1>Hi there 👋</h1>
 <p>My name is Mr. Coxall and I'm the Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
+<h2>🕸️ Course Websites</h2>
+<p>
+  <a href="https://icd2o.mths.ca>ICD2O</a>
+  <a href="https://ics3u.mths.ca>ICS3U</a>
+</p>
+
 <h2>✍ Programming Languages</h2>
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
