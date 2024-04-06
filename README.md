@@ -8,9 +8,9 @@
   <a href="https://ics4u.mths.ca">ICS4U</a>
 </p>
 <p>
-  <a href="https://icd2o.mths.ca">ICD2O</a>
-  <a href="https://ics3u.mths.ca">ICS3U</a>
-  <a href="https://ics4u.mths.ca">ICS4U</a>
+  <a href="https://tej2o.mths.ca">TEJ2O</a>
+  <a href="https://tej3m.mths.ca">TEJ3M</a>
+  <a href="https://tej4m.mths.ca">TEJ4M</a>
 </p>
 
 <h2>✍ Programming Languages</h2>
