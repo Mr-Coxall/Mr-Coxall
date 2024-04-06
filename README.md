@@ -5,6 +5,12 @@
 <p>
   <a href="https://icd2o.mths.ca">ICD2O</a>
   <a href="https://ics3u.mths.ca">ICS3U</a>
+  <a href="https://ics4u.mths.ca">ICS4U</a>
+</p>
+<p>
+  <a href="https://icd2o.mths.ca">ICD2O</a>
+  <a href="https://ics3u.mths.ca">ICS3U</a>
+  <a href="https://ics4u.mths.ca">ICS4U</a>
 </p>
 
 <h2>✍ Programming Languages</h2>
