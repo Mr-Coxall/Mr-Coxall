@@ -57,7 +57,7 @@
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ## 📺📝 My Online Textbook - Computer Based Problem Solving
-<a href="https://mr-coxall.github.io/Computer-Based-Problem-Solving/index.html" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
+<a href="https://mr-coxall.github.io/Computer-Based-Problem-Solving" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
 
 ## 🎮🐢 My MakeCode Arcade Extension - Turtle Logo
 <a href="https://arcade.makecode.com/pkg/mr-coxall/turtle-logo" target="_blank"><img src="https://raw.githubusercontent.com/mr-coxall/turtle-logo/master/icon.png" alt="My MakeCode Arcade Extension - Turtle Logo" width="240" border="10" /></a>
