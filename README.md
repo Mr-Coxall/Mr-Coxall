@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<p>My name is Mr. Coxall and I'm the Computer Science teacher at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+<p>My name is Mr. Coxall and I'm the Computer Science teacher in Ottawa, Canada.</p>
 
 <h2>🕸️ Course Websites</h2>
 <p>
