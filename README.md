@@ -49,12 +49,12 @@
   [![Coder IDE](https://img.shields.io/badge/coder-090B0B.svg?style=for-the-badge&logo=coder&logoColor=white)](https://coder.com/)
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
   
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Gitea](https://img.shields.io/badge/gitea-%609926.svg?style=for-the-badge&logo=gitea&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  [![Gitea](https://img.shields.io/badge/gitea-%609926.svg?style=for-the-badge&logo=gitea&logoColor=white)](https://about.gitea.com)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   
-  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  [![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)](https://aws.amazon.com/dynamodb)
+  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ## 📺📝 My Online Textbook - Computer Based Problem Solving
 <a href="https://mr-coxall.github.io/Computer-Based-Problem-Solving" target="_blank"><img src="./images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
