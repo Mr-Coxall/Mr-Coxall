@@ -40,7 +40,7 @@
   <a href="https://www.apple.com/ca/ios/"><img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white" alt="iOS"></a>
 </p>
 
-## 🔧 Tools
+## 🔧 Tools I have used in Computer Science Class
 
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
