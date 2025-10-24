@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 <p>My name is Mr. Coxall and I'm the Computer Science teacher in Ottawa, Canada.</p>
 
-<h2>🕸️ Course Websites</h2>
+<h2>🕸️ My Ontario Computer Science Course Websites</h2>
 <p>
   <a href="https://sites.google.com/ocsb.ca/teh-icd2or">ICD2O</a>
   <a href="https://sites.google.com/ocsb.ca/teh-ics3ur">ICS3U</a>
